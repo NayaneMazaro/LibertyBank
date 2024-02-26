@@ -6,25 +6,25 @@ A aplicação foi desenvolvida utilizando HTML, CSS e JavaScript para a constru�
 
 ## Recursos Implementados
 
-# Página Inicial
+### Página Inicial
 Apresentação da plataforma e seus principais serviços.
 
-# Cadastro de Usuários
+### Cadastro de Usuários
 Formulário de cadastro para novos usuários.
 Validação de campos e verificação de CPF real.
 
-# Login e Autenticação
+### Login e Autenticação
 Autenticação de usuários utilizando dados armazenados em um banco de dados.
 
-# Dashboard do Usuário
+### Dashboard do Usuário
 Exibição de informações para o usuário logado.
 Resumo de transações financeiras, saldos, etc.
 
-# CRUD:
+### CRUD:
 Funcionalidade para adicionar, visualizar, editar e excluir.
 Registros persistentes em um banco de dados.
 
-# Banco de Dados
+### Banco de Dados
 Utilização do mySQL para armazenar informações de usuários e transações financeiras.
 
 # Fotos
