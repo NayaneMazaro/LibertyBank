@@ -1,5 +1,5 @@
 # Liberty Bank
-A decisão de fazer esse projeto, que simula o site de uma plataforma fictícia de serviços financeiros, surgiu através de um trabalho em grupo para o quinto período do curso de Ciência da Computação na UAM, logo, é um compilado de ideias que meus colegas e eu pensamos e implementamos.
+A decisão de fazer esse projeto, que simula o site de uma plataforma de serviços financeiros, surgiu através de um trabalho em grupo para o quinto período do curso de Ciência da Computação na UAM, logo, é um compilado de ideias que meus colegas e eu pensamos e implementamos.
 
 # Sobre o projeto
 A aplicação foi desenvolvida utilizando HTML, CSS e JavaScript para a construção da interface do usuário dinâmica e responsiva. Além disso, foi utilizado o Maven como ferramenta de gerenciamento de construção do projeto.
